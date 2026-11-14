@@ -1,0 +1,131 @@
+{
+  "configVersion": 1,
+  "timestamp": 1794655050297,
+  "index": "/toolecta/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/toolecta/favicon.ico",
+        "/toolecta/index.html",
+        "/toolecta/main-BZDZIY7W.js",
+        "/toolecta/manifest.webmanifest",
+        "/toolecta/styles-6ZLRB7AV.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/toolecta/apple-touch-icon.png",
+        "/toolecta/brand/brand-board.png",
+        "/toolecta/brand/icon.svg",
+        "/toolecta/brand/logo-dark.png",
+        "/toolecta/brand/logo-dark.svg",
+        "/toolecta/brand/logo.png",
+        "/toolecta/brand/logo.svg",
+        "/toolecta/brand/mark-dark.svg",
+        "/toolecta/brand/mark.svg",
+        "/toolecta/brand/og.png",
+        "/toolecta/favicon.svg",
+        "/toolecta/icons/icon-128x128.png",
+        "/toolecta/icons/icon-144x144.png",
+        "/toolecta/icons/icon-152x152.png",
+        "/toolecta/icons/icon-192x192.png",
+        "/toolecta/icons/icon-384x384.png",
+        "/toolecta/icons/icon-512x512.png",
+        "/toolecta/icons/icon-72x72.png",
+        "/toolecta/icons/icon-96x96.png",
+        "/toolecta/media/ibm-plex-sans-arabic-arabic-400-normal-HDFIX7LY.woff2",
+        "/toolecta/media/ibm-plex-sans-arabic-arabic-400-normal-N4DMJBB5.woff",
+        "/toolecta/media/ibm-plex-sans-arabic-arabic-500-normal-5MTGWOCT.woff",
+        "/toolecta/media/ibm-plex-sans-arabic-arabic-500-normal-AAIACC75.woff2",
+        "/toolecta/media/ibm-plex-sans-arabic-arabic-600-normal-LS4CIPTS.woff2",
+        "/toolecta/media/ibm-plex-sans-arabic-arabic-600-normal-USVRKN2F.woff",
+        "/toolecta/media/ibm-plex-sans-condensed-latin-600-normal-QKYK7CEL.woff",
+        "/toolecta/media/ibm-plex-sans-condensed-latin-600-normal-UX5ZU5T6.woff2",
+        "/toolecta/media/ibm-plex-sans-condensed-latin-700-normal-4PFYFTSO.woff2",
+        "/toolecta/media/ibm-plex-sans-condensed-latin-700-normal-GC6SGNVD.woff",
+        "/toolecta/media/ibm-plex-sans-latin-400-normal-COQVXTP6.woff2",
+        "/toolecta/media/ibm-plex-sans-latin-400-normal-JC3YNCCZ.woff",
+        "/toolecta/media/ibm-plex-sans-latin-500-normal-7DOULDHV.woff",
+        "/toolecta/media/ibm-plex-sans-latin-500-normal-JTONHBWS.woff2",
+        "/toolecta/media/ibm-plex-sans-latin-600-normal-B3O423MA.woff",
+        "/toolecta/media/ibm-plex-sans-latin-600-normal-DTNZULF4.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/toolecta/apple-touch-icon.png": "36adec203e2a18ef6296e3933be173b3b7da7abd",
+    "/toolecta/brand/brand-board.png": "9bf3095438ae5082b24521915cd9a97d52da22d2",
+    "/toolecta/brand/icon.svg": "bf87e48b0f8d0a249689439be9e93d74b4cd47c8",
+    "/toolecta/brand/logo-dark.png": "6efd1d59ae05cbc8919ef03853e2b9445da569e1",
+    "/toolecta/brand/logo-dark.svg": "7cfce84ba43dc288c56ab135bb235699bbf2a03a",
+    "/toolecta/brand/logo.png": "817fb8363cc17218dd01cc33f01cfeae2443c9fe",
+    "/toolecta/brand/logo.svg": "f9b8cc8077f7682459fa6ca4e23e8f62d497d7f9",
+    "/toolecta/brand/mark-dark.svg": "0ea2949f873bedb66b79e739df5a4cfc81955794",
+    "/toolecta/brand/mark.svg": "a51ab96d69ab73e0e109ab6e1a18c050f7556e0a",
+    "/toolecta/brand/og.png": "611876e08a677e8cacec0e05395b1bf930fbc9c1",
+    "/toolecta/favicon.ico": "c433124ef431f8c4663ff44fc742a2578c341167",
+    "/toolecta/favicon.svg": "5ae62f4fa6e115518c79efdc91a815ded220c90d",
+    "/toolecta/icons/icon-128x128.png": "899d92641daea01f42ace44f769998adbd29eca3",
+    "/toolecta/icons/icon-144x144.png": "77240d0c17463874d5b92b7c4ab66149c1c6e4c8",
+    "/toolecta/icons/icon-152x152.png": "ca31134bb42c71ae870b36477205f51e48987f53",
+    "/toolecta/icons/icon-192x192.png": "9867eb81ccf6eca580b6fa554b40fe564eaa6df7",
+    "/toolecta/icons/icon-384x384.png": "8721f15016e76cdbb041cd4b0a98126f66c20773",
+    "/toolecta/icons/icon-512x512.png": "da0103c435700275058b34b10d745c130badfc3d",
+    "/toolecta/icons/icon-72x72.png": "2377ed9fd35c3f82f9bac2710335747c318c211b",
+    "/toolecta/icons/icon-96x96.png": "4e73a29158562b434b958247a4be3378b9a445d7",
+    "/toolecta/index.html": "4e9fde5d4760427a44364996df16f8a3b7e390d3",
+    "/toolecta/main-BZDZIY7W.js": "49125b802f24aa004f6ef43aa7970afe81febc15",
+    "/toolecta/manifest.webmanifest": "569f24f6dc6ba28da2ec965b978df4795a62b493",
+    "/toolecta/media/ibm-plex-sans-arabic-arabic-400-normal-HDFIX7LY.woff2": "a9cefdcae54676211fe42927574e4c013a1af538",
+    "/toolecta/media/ibm-plex-sans-arabic-arabic-400-normal-N4DMJBB5.woff": "3d81de3adf6454ec75677f6533114bc604e9fac2",
+    "/toolecta/media/ibm-plex-sans-arabic-arabic-500-normal-5MTGWOCT.woff": "6f64f814e582ce22839996a4859c0139bbd3a1d9",
+    "/toolecta/media/ibm-plex-sans-arabic-arabic-500-normal-AAIACC75.woff2": "31cb9792b1f981498da21d6c3de567142c6b2a1e",
+    "/toolecta/media/ibm-plex-sans-arabic-arabic-600-normal-LS4CIPTS.woff2": "9e5c019d8d6e9acb93f69e74d9ff5ab0fb49944f",
+    "/toolecta/media/ibm-plex-sans-arabic-arabic-600-normal-USVRKN2F.woff": "7bf549987ac42bf7ec054ea5e5ac9c9800bc8ea5",
+    "/toolecta/media/ibm-plex-sans-condensed-latin-600-normal-QKYK7CEL.woff": "675d20a9567542f9504cf072ebeebffc467f9df0",
+    "/toolecta/media/ibm-plex-sans-condensed-latin-600-normal-UX5ZU5T6.woff2": "3b6cf2bb73d5d471f5daa84c6e074b620a9fb206",
+    "/toolecta/media/ibm-plex-sans-condensed-latin-700-normal-4PFYFTSO.woff2": "a32174c64d3e65503787a36e5e9b375da88975dc",
+    "/toolecta/media/ibm-plex-sans-condensed-latin-700-normal-GC6SGNVD.woff": "10508e9d81c907ed6b4146b4aa61cb9bbdfc74f5",
+    "/toolecta/media/ibm-plex-sans-latin-400-normal-COQVXTP6.woff2": "248289744b813a6a7249cc41d568fac40b81ce7f",
+    "/toolecta/media/ibm-plex-sans-latin-400-normal-JC3YNCCZ.woff": "ecac6770ec17eb49a7ffb777da9baed9546b7177",
+    "/toolecta/media/ibm-plex-sans-latin-500-normal-7DOULDHV.woff": "ea648afc3dc138a5673364c48e9a66cdba5bddb3",
+    "/toolecta/media/ibm-plex-sans-latin-500-normal-JTONHBWS.woff2": "4d42c785b645312766d05fffcee5787bed880a5f",
+    "/toolecta/media/ibm-plex-sans-latin-600-normal-B3O423MA.woff": "df4cbd1b4246ea8a7cc62d61232da8fa0eb42084",
+    "/toolecta/media/ibm-plex-sans-latin-600-normal-DTNZULF4.woff2": "90d9c22697da8cb2722b091ed254ed617a0ed74a",
+    "/toolecta/styles-6ZLRB7AV.css": "4751028ff66a65c58a3991b9defb349f3505fccb"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
